@@ -5,3 +5,4 @@
    4.Initialize second for loop to iterate over string2
       5.If the character in string1 matches the character in string2,set flag value as 1 and break the loop
    6.If the flag value is zero then print the character 
+7.stop the program
